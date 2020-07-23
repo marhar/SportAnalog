@@ -15,7 +15,8 @@
 // Link bit IO8
 // ID bit IO3
 // Sport bit IO2
-
+// Board: Arduino Pro Mini
+// Processor: Atmega 328 (3.3V, 8MHz)
 
 #define DEBUG		0
 
